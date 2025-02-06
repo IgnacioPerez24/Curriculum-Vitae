@@ -581,6 +581,14 @@ img {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .home_profession { 
+      font-size: 1.5rem; 
+      line-height: 1.5;  
+  }
+}
+
+
 
 /* Classes modified for large screen size */
 @media screen and (min-width: 968px){
