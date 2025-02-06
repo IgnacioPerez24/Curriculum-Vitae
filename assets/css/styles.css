@@ -370,8 +370,8 @@ img {
 }
 
 .home_profession {
-  font-size: 3.5rem; /* Ajusta el tamaño a lo que necesites */
-  line-height: 2;  /* Ajusta la altura de línea para centrarlo */
+  font-size: 3.5rem; 
+  line-height: 2;  
   text-align: center; 
   margin-bottom: var(--mb-1);
 }
