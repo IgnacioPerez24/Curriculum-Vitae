@@ -369,10 +369,13 @@ img {
   font-size: var(--h1-font-size);
 }
 
-.home_profession{
-  font-size: var(--normal-font-size);
+.home_profession {
+  font-size: 3.5rem; /* Ajusta el tamaño a lo que necesites */
+  line-height: 2;  /* Ajusta la altura de línea para centrarlo */
+  text-align: center; 
   margin-bottom: var(--mb-1);
 }
+
 
 .home_address{
   gap: 1rem;
